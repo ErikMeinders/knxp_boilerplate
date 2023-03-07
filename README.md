@@ -24,3 +24,7 @@ Contains knx_app.cpp which implements your app. It is based on the base-class _k
 ## include 
 
 knx_app.h defines the application class and constants. It shows all methods you could potentially override with some documentation.
+
+# ToDo
+
+Improve knxapp to showcase more usecases.
