@@ -9,7 +9,7 @@ This template is provided to jump-start a project using knx_platformio, a framew
 
 ## platformio.ini
 
-Please find all necessary compiler options and supported defines for the boilerplate/library in the \[env\]section. It should be pretty self-explanatory. Note that envs are provided for ESP8266 as well as for ESP32. Also, -dev and -prod environments are provided using different build and deployment options.
+Please find all necessary compiler options and supported defines for the boilerplate/library in the \[env\]section. It should be pretty self-explanatory. Note that envs are provided for ESP8266 as well as for ESP32. Also, -dev and -prod environments are provided using different build and deployment options. It is assumed that prod environments are updated Over The Air in this example.
 
 ## xml-tools
 
